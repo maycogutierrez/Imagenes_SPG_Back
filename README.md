@@ -174,7 +174,7 @@ La interfaz web asociada al sistema está desarrollada con React.
 
 Repositorio:
 
-[Front_Imagenes_Digitales](https://github.com/maycogutierrez/Imagenes_SPG_Front.git)
+[Imagenes_Digitales_Front](https://github.com/maycogutierrez/Imagenes_SPG_Front.git)
 
 La arquitectura completa del proyecto puede resumirse como:
 
